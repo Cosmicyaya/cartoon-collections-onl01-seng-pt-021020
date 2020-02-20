@@ -1,7 +1,7 @@
 def roll_call_dwarves# code an argument here
 
 roll_call_dwarves(dwarves)
-
+()
   # Your code here
 end
 
