@@ -1,7 +1,7 @@
 def roll_call_dwarves# code an argument here
 
 roll_call_dwarves(dwarves)
-(Doc, Dopey, Bashful, Grumpy).each_with_index |dwarves
+(Doc, Dopey, Bashful, Grumpy).each_with_index |dwarves,index|
   # Your code here
 end
 
